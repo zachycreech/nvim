@@ -1,5 +1,6 @@
 require "zachy.options"
 require "zachy.keymaps"
+require "zachy.onattach"
 require "zachy.plugins"
 require "zachy.colorscheme"
 require "zachy.cmp"
